@@ -12,7 +12,7 @@ I am ex-US Digital Service accessibility lead (2022-2025), and an IAAP Certified
 😄 I work to honor multiple ways of knowing by building processes that share power with communities, amplifying their wisdom, expertise, and lived experience.
 
 ## How I Work
-I listen first—really listen to understand what's actually going on before suggesting fixes. Technology is the easy part. The hard part is understanding how people, organizations, and environments connect across silos. 
+I listen first. Really listen to understand what's actually going on before suggesting fixes. Technology is the easy part. The hard part is understanding how people, organizations, and environments connect across silos. 
 
 I ask uncomfortable questions: Who gets left out? Who decides what "good" looks like? What are the unintended consequences? These power dynamics shape everything. 
 
